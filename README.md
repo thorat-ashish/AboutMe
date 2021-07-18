@@ -4,6 +4,7 @@ Demo BizTalk application are commited to - https://github.com/thorat-ashish/BizT
 
 My YouTube channel to watch related tech videos - [https://www.youtube.com/user/ThoratAshish](https://www.youtube.com/user/ThoratAshish?sub_confirmation=1)
 
+Some of my BizTalk Server related videos are listed below.
 
 |     Title     | Video |
 |     :---    | :---:       |
