@@ -2,38 +2,13 @@
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/thorat-ashish/BizTalkApps/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Demo BizTalk application are commited to - https://github.com/thorat-ashish/BizTalkApps
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can visit to my YouTube channel to watch related tech videos - [https://www.youtube.com/user/ThoratAshish](https://www.youtube.com/user/ThoratAshish?sub_confirmation=1)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|     Title     | Video |
+|     :---    | :---:       |
+| BizTalk Orchestration: How to access distinguished field and promoted property   |      [Recording](https://www.youtube.com/watch?v=Tjxnio9eHr8)   |
+| How to use the 'Microsoft BizTalk Server 2010 VHD'   |      [Recording](https://www.youtube.com/watch?v=91apUw7pfOA)   |
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thorat-ashish/BizTalkApps/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
