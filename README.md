@@ -2,7 +2,7 @@
 
 Demo BizTalk application are commited to - https://github.com/thorat-ashish/BizTalkApps
 
-You can visit to my YouTube channel to watch related tech videos - [https://www.youtube.com/user/ThoratAshish](https://www.youtube.com/user/ThoratAshish?sub_confirmation=1)
+My YouTube channel to watch related tech videos - [https://www.youtube.com/user/ThoratAshish](https://www.youtube.com/user/ThoratAshish?sub_confirmation=1)
 
 
 |     Title     | Video |
