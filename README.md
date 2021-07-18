@@ -1,6 +1,4 @@
-# AboutMe
-
-## Welcome to Ashish's GitHub repo
+# Welcome to Ashish's GitHub repo
 
 Demo BizTalk application are commited to - https://github.com/thorat-ashish/BizTalkApps
 
