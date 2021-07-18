@@ -1,6 +1,6 @@
 # Welcome to Ashish's GitHub repo
 
-Demo BizTalk application are commited to - https://github.com/thorat-ashish/BizTalkApps
+Demo BizTalk application are commited to - [https://github.com/thorat-ashish/BizTalkApps](https://github.com/thorat-ashish/BizTalkApps)
 
 My YouTube channel to watch related tech videos - [https://www.youtube.com/user/ThoratAshish](https://www.youtube.com/user/ThoratAshish?sub_confirmation=1)
 
