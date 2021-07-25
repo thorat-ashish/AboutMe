@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/thorat-ashish/AboutMe/blob/main/Files/AshishProfileForGitHubPages3.jpg?raw=true">
 
-<img  height="50" src="https://github.com/thorat-ashish/AboutMe/blob/main/Files/BizTalkServerHoriztonal2.jpg?raw=true">Demo BizTalk application are committed to - [https://github.com/thorat-ashish/BizTalkApps](https://github.com/thorat-ashish/BizTalkApps)
+<img  height="50" src="https://github.com/thorat-ashish/AboutMe/blob/main/Files/BizTalkServerHoriztonal2.jpg?raw=true">  Demo BizTalk application are committed to - [https://github.com/thorat-ashish/BizTalkApps](https://github.com/thorat-ashish/BizTalkApps)
 
 [<img  height="13" src="https://github.com/thorat-ashish/AboutMe/blob/main/Files/YouTubeWithoutName150x105.png?raw=true">](https://www.youtube.com/user/ThoratAshish)  My YouTube channel to watch related tech videos - [https://www.youtube.com/user/ThoratAshish](https://www.youtube.com/user/ThoratAshish?sub_confirmation=1)
 
