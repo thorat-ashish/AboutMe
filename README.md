@@ -4,7 +4,7 @@
 
 Demo BizTalk application are committed to - [https://github.com/thorat-ashish/BizTalkApps](https://github.com/thorat-ashish/BizTalkApps)
 
-<img  height="20" src="https://github.com/thorat-ashish/AboutMe/blob/main/Files/YouTubeOnlyLogo.html.svg">My YouTube channel to watch related tech videos - [https://www.youtube.com/user/ThoratAshish](https://www.youtube.com/user/ThoratAshish?sub_confirmation=1)
+[<img  height="13" src="https://github.com/thorat-ashish/AboutMe/blob/main/Files/YouTubeLogoWithoutName680x480.png">](https://www.youtube.com/user/ThoratAshish)  My YouTube channel to watch related tech videos - [https://www.youtube.com/user/ThoratAshish](https://www.youtube.com/user/ThoratAshish?sub_confirmation=1)
 
 Some of my BizTalk Server related videos are listed below.
 
