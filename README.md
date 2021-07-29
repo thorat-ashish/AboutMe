@@ -17,3 +17,8 @@ Some of my BizTalk Server related videos are listed below.
 ## What will you find in the [BizTalk repository](https://github.com/thorat-ashish/BizTalkApps) 
 1. BTApp01 - BizTalk solution with 1 xml schema file in it.
 2. BTApp02 - XML schema generated manually, XML schema generated from XML message, Flat File schema generated from input Flat File using Flat File Schema Generation Wizard.
+3. BTAppXMLToFF - BizTalk application to convert xml to Flat File and append the output to destiantion file.
+
+
+
+
